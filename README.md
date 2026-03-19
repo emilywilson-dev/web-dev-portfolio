@@ -19,9 +19,9 @@ Hi! I’m **Emily Wilson**, a web/email developer specializing in building clean
 
 ## Projects
 
-###  [Tech Stream Wesbite]
+###  Tech Stream Wesbite
 
-- Live Site: [https://emilywilson-dev.github.io/tech-stream/]
-- 💻 GitHub Repo: [https://github.com/emilywilson-dev/tech-stream.git]
+- Live Site: https://emilywilson-dev.github.io/tech-stream/
+- 💻 GitHub Repo: https://github.com/emilywilson-dev/tech-stream.git
 
 ---

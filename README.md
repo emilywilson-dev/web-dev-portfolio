@@ -19,13 +19,9 @@ Hi! I’m **Emily Wilson**, a web/email developer specializing in building clean
 
 ## Projects
 
-### 🔹 [Project Name]
-**Description:** Brief explanation of what the project does and why you built it.
+###  [Tech Stream Wesbite]
 
-- 🔗 Live Site: [https://your-link.com]
-- 💻 GitHub Repo: [https://github.com/yourusername/repo-name]
-
-**Tech Used:**
-- HTML / CSS / JavaScript
+- Live Site: [https://emilywilson-dev.github.io/tech-stream/]
+- 💻 GitHub Repo: [https://github.com/emilywilson-dev/tech-stream.git]
 
 ---

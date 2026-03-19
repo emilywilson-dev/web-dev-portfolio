@@ -9,16 +9,15 @@ Hi! I’m **Emily Wilson**, a web/email developer specializing in building clean
 ### Frontend
 - HTML5
 - CSS3
-- -Javascript
+- Javascript
 
 ### Tools
 - Git & GitHub
 - VS Code
-- Figma
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 🔹 [Project Name]
 **Description:** Brief explanation of what the project does and why you built it.
@@ -30,53 +29,3 @@ Hi! I’m **Emily Wilson**, a web/email developer specializing in building clean
 - HTML / CSS / JavaScript
 
 ---
-
-### 🔹 [Project Name]
-**Description:** Brief explanation
-
-- 🔗 Live Site: [link]
-- 💻 GitHub Repo: [link]
-
-**Tech Used:**
-- 
-
----
-
-### 🔹 [Project Name]
-**Description:** Brief explanation
-
-- 🔗 Live Site: [link]
-- 💻 GitHub Repo: [link]
-
-**Tech Used:**
-- 
-
----
-
-## 📸 Portfolio
-
-You can check out more of my work here:  
-👉 [https://your-portfolio.com]
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: [https://linkedin.com/in/yourname]
-- GitHub: https://github.com/YOUR_USERNAME
-- Portfolio: [https://your-portfolio.com]
-
----
-
-## ⭐️ Fun Fact
-
-Add something human here:
-> I love dogs 🐶 and clean UI design.
